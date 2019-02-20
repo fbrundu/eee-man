@@ -1,0 +1,24 @@
+{
+  "host": "<service_ipaddr>",
+  "name": "eee",
+  "description": "Energy Efficiency Engine",
+  "meta": {
+      "serviceType": "_rest._http",
+      "apiVersion": "3.1.1",
+      "gc_expose": true
+   },
+  "ttl": 120,
+  "protocols": [
+    {
+      "type": "REST",
+      "endpoint": {
+        "url": "http://<service_ipaddr>:8084/eee"
+      },
+      "methods": [
+        "GET"
+      ],
+      "content-types": []
+    }
+  ],
+  "representation": {}
+}

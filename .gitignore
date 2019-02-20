@@ -1,0 +1,6 @@
+conf/conf.json
+__pycache__
+*.pyc
+*.log
+screenlog.*
+.ropeproject

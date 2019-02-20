@@ -1,0 +1,9 @@
+{
+    "binpath": <bin_folder_path>,
+    "scatalog": <service_catalog_endpoint>,
+    "confpath": <conf_file_path>,
+    "stage": <development_or_production>,
+    "cert": <certificate_path>,
+    "priv": <privkey_path>,
+    "chain": <certificate_chain_path>
+}
