@@ -1,4 +1,12 @@
-# eee
+# District Heating Simulator - Manchester version
+
+This repository is part of a collection, see also:
+- BIM Service Provider - Context layer: https://github.com/fbrundu/dimc
+- BIM Service Provider - Interface layer: https://github.com/fbrundu/bimp
+- District Heating Simulator - Turin version https://github.com/fbrundu/eee-trn
+
+Full citation:
+- Brundu, Francesco Gavino, et al. "IoT software infrastructure for energy management and simulation in smart cities." IEEE Transactions on Industrial Informatics 13.2 (2016): 832-840.
 
 ## Dependencies
 
